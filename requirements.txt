@@ -1,0 +1,16 @@
+langserve[all]==0.0.51
+# langserve[client]
+# langserve[server]
+# langchain-cli
+fastapi==0.110.1
+langchain==0.1.16
+langchain-anthropic==0.1.8
+langchain-community==0.0.32
+langchain-core==0.1.42
+langchain-openai==0.1.3
+langchain-text-splitters==0.0.1
+python-dotenv==1.0.1
+# pydantic==2.7.0
+pydantic==1.10.13
+uvicorn==0.29.0
+anthropic==0.25.1
